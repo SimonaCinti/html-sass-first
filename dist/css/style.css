@@ -1,4 +1,14 @@
 body {
-  background-color: red;
+  background-color: white;
+}
+
+h1 {
+  color: BlueViolet;
+  font-family: "Dancing Script", cursive;
+}
+
+p {
+  color: #394160;
+  font-family: "Nunito", sans-serif;
 }
 

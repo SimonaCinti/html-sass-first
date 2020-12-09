@@ -1,3 +1,20 @@
 body {
-    background-color: red;
+    background-color: rgb(255, 255, 255);
+}
+// Var
+$brand-color: BlueViolet;
+$secondary-color: #394160;
+$font-main: 'Dancing Script', cursive;
+$font-secondary: 'Nunito', sans-serif;
+
+// Style
+
+h1 {
+    color: $brand-color;
+    font-family: $font-main
+}
+
+p {
+    color: $secondary-color;
+    font-family: $font-secondary;
 }
