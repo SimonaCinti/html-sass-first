@@ -10,12 +10,14 @@ $font-secondary: 'Nunito', sans-serif;
 
 // Style
 
-h1 {
+h1,
+p {
     color: $brand-color;
     font-family: $font-main
 }
 
-p {
+h2,
+h3 {
     color: $secondary-color;
     font-family: $font-secondary;
 }

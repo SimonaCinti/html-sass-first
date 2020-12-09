@@ -3,12 +3,14 @@ body {
   height: 100vh;
 }
 
-h1 {
+h1,
+p {
   color: BlueViolet;
   font-family: "Dancing Script", cursive;
 }
 
-p {
+h2,
+h3 {
   color: #394160;
   font-family: "Nunito", sans-serif;
 }
